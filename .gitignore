@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Custom
+.env
+data/
+articles_normalised/
+myenv/
+
